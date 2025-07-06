@@ -3,7 +3,7 @@
 I'm passionate about **embedded systems** and I love building things.  
 I enjoy creating and learning new stuff.
 
->> Just a quiet thinker who asked too many questions about technology
+> Just a quiet thinker who asked too many questions about technology
 <!--
 **Antoniaina/Antoniaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
