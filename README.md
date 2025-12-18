@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=600&color=F79A00,38BDF8,FF40BE,FFD600&width=760&size=38&center=true&vCenter=true&lines=Hi+I'm+Antoniaina;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=600&color=F79A00,38BDF8,FF40BE,FFD600&width=760&size=38&center=true&vCenter=true&lines=Hi!+I'm+Antoniaina;"/>
 </p>
 <p align="center"><strong>Physics student | Low-level systems | Embedded |Computational physics | Web as a tool</strong></p>
 <p align="center">
