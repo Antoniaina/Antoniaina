@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/adventure-time.png" width="220"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=600&color=F79A00,38BDF8,FF40BE,FFD600&width=760&size=38&center=true&vCenter=true&lines=Hi+I'm+Antoniaina;"/>
 </p>
-
-<h1 align="center">Hi, I'm Antoniaina 👋</h1>
 <p align="center"><strong>Physics student | Low-level systems | Embedded |Computational physics | Web as a tool</strong></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=antoniaina" alt="profile views" />
@@ -10,18 +8,10 @@
 
 ---
 
-### 🚀 Currently building
-- Physics simulators
-- Cool terminal UIs (TUI)
-- Bare metal firmware & drivers
-- Hardware hacking & audio electronics
-
----
-
-### 🧰 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
@@ -58,3 +48,7 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=antoniaina&theme=react-dark&hide_border=true&area=true" width="98%"/>
 </p>
+
+---
+
+**📫 How to reach me:** ramahalison.antoniaina@gmail.com
