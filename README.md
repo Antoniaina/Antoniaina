@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-000?logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/ARM-0091BD?logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux--Kernel-3A3A3A?logo=linux&logoColor=yellow" />
