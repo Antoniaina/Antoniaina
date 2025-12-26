@@ -51,4 +51,4 @@
 
 ---
 
-**📫 How to reach me: Email me at ramahalison.antoniaina@gmail.com
+📫 How to reach me: Email me at ramahalison.antoniaina@gmail.com
